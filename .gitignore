@@ -1,0 +1,35 @@
+#Entorno virtual
+vehicles_env/
+venv/
+.env/
+*.env
+
+#Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pym
+*.pdb
+
+# Archivos temporales / configuración local 
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+#VS Code 
+.vscode/
+.code-workspace
+
+#Streamlit
+.streamlit/
+
+# Archivos generados
+dist/
+build/
