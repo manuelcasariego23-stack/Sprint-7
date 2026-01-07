@@ -1,4 +1,3 @@
-pandas
-plotly
-streamlit
- 
+pandas>=1.5
+streamlit>=1.28
+plotly>=5.18
